@@ -13,3 +13,5 @@ Steps:
   ```
   jupyter notebook
   ```
+Demo:
+![Sunrise Tweet](demo/sunrisetweet.gif)
